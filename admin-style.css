@@ -1,0 +1,127 @@
+#toplevel_page_invalidar-cache .wp-menu-name {
+    /* Agrega tus estilos personalizados aquí */
+    background-color: #e04e43;
+    color: white;
+    font-weight: bold;
+}
+
+
+/* .wp-menu-image.dashicons-before.dashicons-star-filled {
+    background-color: #1161ed;
+} */
+
+.h2.titulo {
+    font-weight: bold;
+}
+
+form.principal {
+    background: #ffffff;
+    padding: 40px;
+    width: 60%;
+    margin-top: 30px;
+}
+
+.wrap.principal2 {
+    background: #ffffff;
+    padding: 20px 0px 0px 40px;
+    width: 63%;
+    margin-top: 30px;
+}
+
+div.updated p {
+    font-size: 14px;
+}
+
+.updated {
+    font-size: 14px !important;
+    font-weight: 500 !important;
+}
+
+div.error p {
+    font-size: 14px;
+}
+
+.error {
+    font-size: 14px !important;
+    font-weight: 500 !important;
+}
+
+label.paths {
+    font-size: 20px;
+}
+
+input.input-inv {
+    width: 100%;
+    max-width: 500px;
+    height: 36px;
+    font-size: 18px;
+}
+
+.wp-core-ui .button-primary-disabled,
+.wp-core-ui .button-primary.disabled,
+.wp-core-ui .button-primary:disabled,
+.wp-core-ui .button-primary[disabled] {
+    color: #5c5c5c !important;
+    background: #e3e3e3 !important;
+    border-color: #a7a7a7 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+    cursor: default;
+}
+
+input#boton_consultar {
+    font-size: 16px !important;
+}
+
+input.invalida {
+    background: #1162ee !important;
+    color: #FFFFFF;
+    border-radius: 4px;
+    font-size: 16px !important;
+    font-weight: bold;
+    cursor: pointer;
+    border: 0;
+    height: 36px;
+    padding: 8px 10px 10px 10px;
+}
+
+p.txt-bold {
+    font-weight: bold;
+}
+
+p.p-lh {
+    line-height: 0;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.spannegro {
+    color: #000000;
+    font-weight: bold;
+}
+
+.spanverde {
+    color: #528233;
+    font-weight: bold;
+}
+
+.spanrojo {
+    color: #e04e43;
+    font-weight: bold;
+}
+
+.spanazul {
+    color: #42559e;
+    font-weight: bold;
+}
+
+.disc {
+    list-style: disc;
+}
